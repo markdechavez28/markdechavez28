@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I am Mark, a Computer Science student. I am passionate about data journalism and learning about Machine Learning.
+Hi! I am Mark, a Computer Science student. I am passionate about Data Journalism and learning about Machine Learning.
 
 
 # 💻 Tech Stack:
