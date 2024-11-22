@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science student learning about Machine Learning and Data Journalism.
+I am a Computer Science student passionate about Machine Learning and Data Journalism.
 
 
 ## 🌐 Socials:
