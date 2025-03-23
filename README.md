@@ -3,10 +3,6 @@
 # 🚀 Mark De Chavez  
 ### Researcher • Developer • Journalist  
 
-🌟 *#DataForGood"* 🚀  
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21xZjNtdGN5eGJ5ZmRxZnl5a2pveDNoZW5ncXluZTVmMWI2MjlsNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tz8O5YMtNChS2/giphy.gif" width="400"/>
-
 ---
 
 ## 🔥 About Me  
