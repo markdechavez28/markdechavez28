@@ -11,8 +11,7 @@
 
 ## 🔥 About Me  
 🎓 **3rd-year BS Computer Science student**  
-📊 **Data Science Enthusiast** | 🤖 **AI & ML Explorer**  
-📝 **Data Journalist** | 🔐 **Cybersecurity & Cryptography Geek**  
+📊 **Data Science Enthusiast** | 🤖 **AI & ML Explorer** | 📝 **Data Journalist**   
 
 💡 *Turning data into insights, code into solutions, and research into impact!*  
 
@@ -59,7 +58,7 @@
 ## 🌱 Currently Exploring  
 🔹 **MLOps** & AI Interpretability  
 🔹 **Cryptographic Techniques** for Digital Security  
-🔹 **Geospatial AI** & Sustainable Development  
+🔹 **Cloud Pipeline** & Data Engineering 
 
 ---
 
@@ -67,9 +66,6 @@
 
 <a href="https://www.linkedin.com/in/markdechavez28">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>  
-<a href="https://medium.com/@markdechavez128">
-  <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=medium&logoColor=white" />
 </a>  
 
 ---
