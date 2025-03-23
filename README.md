@@ -68,8 +68,8 @@
 <a href="https://www.linkedin.com/in/markdechavez28">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>  
-<a href="https://twitter.com/yourhandle">
-  <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://medium.com/@markdechavez128">
+  <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=medium&logoColor=white" />
 </a>  
 
 ---
