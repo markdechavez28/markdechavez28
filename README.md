@@ -3,7 +3,7 @@
 # 🚀 Mark De Chavez  
 ### Researcher • Developer • Journalist  
 
-🌟 *"Data is the fuel of the future—let's shape it responsibly!"* 🚀  
+🌟 *#DataForGood"* 🚀  
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21xZjNtdGN5eGJ5ZmRxZnl5a2pveDNoZW5ncXluZTVmMWI2MjlsNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tz8O5YMtNChS2/giphy.gif" width="400"/>
 
@@ -84,10 +84,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>  
 
----
-
-## 📈 Profile Visits  
-[![](https://visitcount.itsvg.in/api?id=markdechavez28&icon=0&color=0)](https://visitcount.itsvg.in)  
+---  
 
 ✨ *"Data-driven insights, open-source contributions, and a passion for innovation!"* 🚀  
 
