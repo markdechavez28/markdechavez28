@@ -12,7 +12,7 @@
 ## 🎯 **About Me**  
 🎓 **3rd-year BS Computer Science student**  
 📊 **Data Science Enthusiast** | 🤖 **AI & ML Explorer** | 📝 **Data Journalist**  
-⚡ Passionate about **machine learning, cryptography, and cloud computing**  
+⚡ Passionate about **machine learning, cloud computing, and writing**  
 
 ---
 
