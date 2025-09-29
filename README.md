@@ -1,6 +1,5 @@
 <div align="center">
 
-# 🌟 Mark De Chavez  
-
+# Mark De Chavez 🧍‍♂️
 
 </div>  
